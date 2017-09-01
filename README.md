@@ -12,3 +12,4 @@ elsif x <= 2 and x!=0
 else
    puts "I can't guess the number"
 end
+another try to make a change
